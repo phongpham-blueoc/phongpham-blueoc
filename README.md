@@ -20,15 +20,38 @@
 
 ### 🌟 **GitHub Stats**
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phongpham-blueoc&theme=2077" alt="Profile Details">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phongpham-blueoc&theme=2077" alt="Repos per Language">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phongpham-blueoc&theme=2077" alt="Most Commit Language">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phongpham-blueoc&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phongpham-blueoc&theme=github">
+    <img alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=phongpham-blueoc&theme=github">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phongpham-blueoc&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phongpham-blueoc&theme=github">
+    <img alt="Repos per Language" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=phongpham-blueoc&theme=github">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phongpham-blueoc&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phongpham-blueoc&theme=github">
+    <img alt="Most Commit Language" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=phongpham-blueoc&theme=github">
+  </picture>
 </div>
 
-<div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phongpham-blueoc&theme=2077" alt="GitHub Stats">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phongpham-blueoc&theme=2077&utcOffset=8" alt="Productive Time">
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phongpham-blueoc&theme=github_dark">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phongpham-blueoc&theme=github">
+    <img alt="GitHub Stats" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=phongpham-blueoc&theme=github">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phongpham-blueoc&theme=github_dark&utcOffset=8">
+    <source media="(prefers-color-scheme: light)" srcset="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phongpham-blueoc&theme=github&utcOffset=8">
+    <img alt="Productive Time" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=phongpham-blueoc&theme=github&utcOffset=8">
+  </picture>
 </div>
 
 ---
@@ -36,14 +59,18 @@
 ### 📈 **Activity Graph**
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=phongpham-blueoc&theme=github&hide_border=false&area=true" alt="Activity Graph">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=phongpham-blueoc&theme=github-dark&hide_border=false&area=true&bg_color=0d1117">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=phongpham-blueoc&theme=github-light&hide_border=false&area=true&bg_color=ffffff">
+    <img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=phongpham-blueoc&theme=github-light&hide_border=false&area=true">
+  </picture>
 </p>
 
 ---
 
 ### 🛠 **Tech Stack & Tools**
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/CI/CD-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=blue" alt="GitHub Actions">
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue" alt="Python">
   <img src="https://img.shields.io/badge/Code-Go-informational?style=flat&logo=go&logoColor=white&color=blue" alt="Go">
@@ -60,7 +87,7 @@
 
 ### 📫 **Connect with Me**
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
